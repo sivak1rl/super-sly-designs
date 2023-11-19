@@ -1,1 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Super Sly Designs by MJ
+---
+[superslydesigns.com](https://superslydesigns.com)
+This is a web app for Super Sly Designs by MJ.
