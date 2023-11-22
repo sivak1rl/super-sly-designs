@@ -51,3 +51,7 @@
 .lightText {
 	color: #666;
 }
+
+.hasTextCentered {
+    text-align: center;
+}
